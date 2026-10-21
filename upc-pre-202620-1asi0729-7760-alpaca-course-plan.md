@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 6 minutos.
 - **Descripción:** Antes de escribir cualquier línea de código, entendemos qué es programar, qué es un lenguaje de programación, qué es Java y por qué vale la pena aprenderlo.
-- **Enlace:** 
+- **Enlace:** https://youtu.be/ix3qqqYvOtw
 - **Temas:**
   - **¿Qué es programar?** Darle instrucciones a una computadora, como una receta de cocina. El chef eres tú y la computadora es quien sigue las instrucciones al pie de la letra.
   - **¿Qué es Java?** Un lenguaje de programación que permite darle instrucciones a una computadora. Es como aprender un idioma para comunicarnos con las máquinas.
@@ -28,7 +28,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 5 minutos.
 - **Descripción:** Entendemos la programación orientada a objetos (POO) mediante ejemplos del mundo real antes de escribir código. Descubrimos qué son las clases y los objetos, y cómo se relacionan con Java.
-- **Enlace:**
+- **Enlace:** https://youtu.be/Z0zfuMjKSxc
 - **Temas:**
   - **¿Qué es la POO?** Una forma de organizar el código utilizando objetos que tienen características y acciones. En lugar de tener instrucciones aisladas, agrupamos la información y los comportamientos relacionados.
   - **Clases y objetos:** Una clase es como el molde para fabricar una galleta y un objeto es cada galleta creada a partir de ese molde. Podemos crear muchos objetos a partir de una misma clase.
