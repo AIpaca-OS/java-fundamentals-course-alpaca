@@ -135,7 +135,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 7 minutos.
 - **Descripción:** Ahora que podemos crear objetos y proteger sus datos, aprenderemos a trabajar con varios estudiantes a la vez. Utilizaremos arrays para almacenar objetos y cadenas de texto para representar y manipular información.
-- **Enlace:**
+- **Enlace:** https://youtu.be/FwC281EJKzc
 - **Temas:**
   - **¿Qué es un array?** Es una estructura que permite almacenar varios elementos de un mismo tipo en posiciones identificadas por índices.
   - **Array de objetos:** `Estudiante[] salon = new Estudiante[3];` crea un array con espacio para tres referencias a objetos `Estudiante`.
@@ -143,7 +143,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - **Recorrer un array:** El bucle `for` permite acceder a cada posición y ejecutar acciones sobre sus elementos.
   - **Manipulación de cadenas:** `String` permite trabajar con textos mediante métodos como `length()` y `toUpperCase()`.
   - **Integración con POO:** Podemos almacenar estudiantes, consultar sus nombres mediante getters y utilizar sus métodos para mostrar información.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide
+- **Material de la lección:** https://canva.link/c18mots7lmi7iwi
 
 ---
 
@@ -151,7 +151,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 7 minutos.
 - **Descripción:** ¡Llegó el momento de unir todo lo aprendido! Construiremos un pequeño sistema de registro estudiantil que permita ingresar datos por consola, crear objetos, almacenar estudiantes y mostrar sus resultados. El objetivo es comprobar que podemos combinar los fundamentos de Java con la programación orientada a objetos.
-- **Enlace:** 
+- **Enlace:** https://youtu.be/5M5xQYx9V2g
 - **Temas:**
   - **Entrada por consola:** Utilizamos `Scanner` para solicitar información al usuario, como el nombre, la edad y la nota de un estudiante.
   - **Clases y objetos:** Creamos una clase `Estudiante` con atributos, constructor y métodos.
@@ -180,7 +180,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 6 | **Métodos — Tu Propio Comando** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
 | 7 | **Clases y Objetos en Java** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
 | 8 | **Encapsulamiento — Protegiendo los Datos de un Objeto** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
-| 9 | **Arrays y Cadenas — Organizando Datos con Objetos** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
+| 9 | **Arrays y Cadenas — Organizando Datos con Objetos** | [Canva - Arrays y Proyecto final](https://canva.link/c18mots7lmi7iwi) ||
 | 10 | **Proyecto Final — Sistema de Registro Estudiantil** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) | |
 
 - **Compartir:** #JavaBeginners
@@ -205,6 +205,5 @@ NRC 7760
 - Díaz Ramírez, Alejandro
 - Geronimo Puma, Kevin Joel
 - Meza Soza, Alexandra Yamile
-- Pareja Caceres, Diana 
 
 **Fecha de entrega:** 13/11/2026
