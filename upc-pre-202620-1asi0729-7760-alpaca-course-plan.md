@@ -103,15 +103,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 5 minutos.
 - **Descripción:** En la segunda lección conocimos las clases y los objetos mediante ejemplos cotidianos. Ahora llevamos esas ideas al código y creamos nuestra primera clase `Estudiante`, con atributos, un constructor y métodos que representan sus comportamientos.
-- **Enlace:**
-- **Temas:**
+- **Enlace:** https://youtu.be/du6O8s58Rsk
+- **Temas:** 
   - **Crear una clase:** `class Estudiante { ... }` define el molde que utilizaremos para crear estudiantes.
   - **Atributos:** `String nombre;`, `int edad;` y `double nota;` representan la información de cada estudiante.
   - **Constructores:** Permiten inicializar los datos cuando creamos un objeto.
   - **Instanciación:** `new Estudiante("Ana", 15, 18.5)` crea un objeto a partir de la clase, suponiendo que existe un constructor compatible.
   - **Métodos del objeto:** Permiten definir acciones, como mostrar la información de un estudiante o comprobar si aprobó.
   - **Conexión con la lección 6:** Los métodos que aprendimos a crear ahora pueden formar parte de una clase y utilizar sus datos.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide
+- **Práctica:** [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/ga/bjcw-7hbr-cjkf)
 
 ---
 
