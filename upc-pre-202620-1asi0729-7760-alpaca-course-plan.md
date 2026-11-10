@@ -119,7 +119,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 5 minutos.
 - **Descripción:** Ya sabemos crear clases y objetos. Ahora aprenderemos a proteger sus datos mediante el encapsulamiento, utilizando atributos privados y métodos que permiten consultar o modificar la información de manera controlada.
-- **Enlace:**
+- **Enlace:** https://youtu.be/1ulnNe--Ab0
 - **Temas:**
   - **¿Qué es el encapsulamiento?** Es un principio de la POO que permite controlar cómo se accede a los datos de un objeto.
   - **Atributos privados:** El modificador `private` impide acceder directamente a esos atributos desde fuera de la clase.
@@ -127,7 +127,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - **Setters:** Permiten modificar un atributo de forma controlada y, cuando sea necesario, validar el nuevo valor.
   - **Instanciación:** Creamos objetos con `new` y accedemos a sus métodos públicos para trabajar con sus datos.
   - **Ejemplo aplicado:** Protegemos la nota de un estudiante para evitar asignarle un valor fuera del rango permitido.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide
+- **Práctica:** https://www.jdoodle.com/ga/mngn-uuwp-w4sd
 
 ---
 
