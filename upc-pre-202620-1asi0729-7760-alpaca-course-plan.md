@@ -87,7 +87,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 5 minutos.
 - **Descripción:** Ya conocemos variables, operaciones, condiciones y bucles. Ahora aprenderemos a agrupar instrucciones en métodos para reutilizar nuestro código y organizarlo en tareas pequeñas y fáciles de comprender.
-- **Enlace:** 
+- **Enlace:** https://youtu.be/2eqdyBi5W6A
 - **Temas:**
   - **¿Qué es un método?** Es un bloque de código que realiza una tarea específica y que podemos ejecutar cuando lo necesitamos.
   - **Parámetros:** Son los datos que un método recibe para realizar su tarea.
@@ -95,7 +95,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - **Ejemplo sencillo:** `public static int sumar(int a, int b) { return a + b; }`.
   - **Invocación de métodos:** Podemos utilizar `sumar(3, 5)` para obtener el resultado de la operación.
   - **Ventajas:** Los métodos permiten reutilizar instrucciones, evitar duplicar código y facilitar su comprensión.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide ⭐ **¡No necesitas registrarte!**
+- **Práctica:** https://www.jdoodle.com/ga/rayv-qpvp-teh4 
 
 ---
 
