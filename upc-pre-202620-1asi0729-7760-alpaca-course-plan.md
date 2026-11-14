@@ -42,14 +42,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 6 minutos.
 - **Descripción:** Después de conocer qué es Java, escribimos nuestras primeras instrucciones. Aprendemos a mostrar mensajes en pantalla y a guardar información en variables, utilizando ejemplos sencillos como el nombre y la edad de un estudiante.
-- **Enlace:**
+- **Enlace:** https://youtu.be/0tPhtvEPSTM
 - **Temas:**
   - **Nuestro primer programa:** `System.out.println("Hola Mundo :D");` permite mostrar un mensaje en la consola.
   - **¿Qué es una variable?** Es un espacio identificado por un nombre donde podemos guardar un dato para utilizarlo después.
   - **Tipos de datos:** `int` almacena números enteros, `String` almacena textos, `double` almacena números decimales y `boolean` representa valores verdaderos o falsos.
   - **Declaración de variables:** Por ejemplo, `String nombre = "Ana";` y `int edad = 15;`.
   - **Reglas básicas de sintaxis:** Reconocemos el uso del punto y coma, las comillas para los textos y los nombres de las variables.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide  ⭐ **¡No es necesario registrarse!**
+- **Práctica:** [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/ia/cnx3-sqvx-w75n)  ⭐ **¡No es necesario registrarse!**
 
 ---
 
