@@ -49,8 +49,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - **Tipos de datos:** `int` almacena números enteros, `String` almacena textos, `double` almacena números decimales y `boolean` representa valores verdaderos o falsos.
   - **Declaración de variables:** Por ejemplo, `String nombre = "Ana";` y `int edad = 15;`.
   - **Reglas básicas de sintaxis:** Reconocemos el uso del punto y coma, las comillas para los textos y los nombres de las variables.
-- **Práctica:** [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/ia/cnx3-sqvx-w75n)  ⭐ **¡No es necesario registrarse!**
-
+- **Práctica:** [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/ia/cnx3-sqvx-w75n)
 ---
 
 ### Lección 4: Operadores y Expresiones — Trabajando con Datos
@@ -64,7 +63,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - **Operaciones con variables:** Podemos calcular la edad futura de una persona con `int edadFutura = edad + 1;`.
   - **Concatenación de textos:** El operador `+` también permite unir textos, como en `System.out.println("Hola " + nombre);`.
   - **Orden de las operaciones:** Los paréntesis permiten indicar qué operación debe realizarse primero.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide ⭐ **¡Inicio inmediato!**
+- **Práctica:** [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/ia/2nmt-66uf-qvhb)
 
 ---
 
@@ -72,14 +71,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 - **Duración aproximada:** 7 minutos.
 - **Descripción:** Ya podemos almacenar datos y operar con ellos. Ahora aprenderemos a controlar el comportamiento de nuestro programa: tomar decisiones según una condición y repetir instrucciones sin tener que escribirlas muchas veces.
-- **Enlace:** 
+- **Enlace:** https://youtu.be/w6itmKcIinE
 - **Temas:**
   - **Condiciones con `if-else`:** Permiten elegir qué instrucciones ejecutar. Por ejemplo, comprobar si un estudiante aprobó según su nota.
   - **Comparaciones:** Los operadores `>`, `<`, `>=`, `<=`, `==` y `!=` permiten comparar valores.
   - **Bucle `for`:** Se utiliza para repetir instrucciones una cantidad determinada de veces. Por ejemplo, `for (int i = 0; i < 5; i++)`.
   - **Bucle `while`:** Repite instrucciones mientras una condición sea verdadera.
   - **Errores comunes:** Una condición incorrecta puede provocar que un bucle nunca termine. Por eso, debemos entender cuándo comienza y cuándo finaliza la repetición.
-- **Práctica:** https://www.jdoodle.com/online-java-compiler-ide ⭐
+- **Práctica:** [https://www.jdoodle.com/online-java-compiler-ide](https://www.jdoodle.com/ia/sr8p-dvra-7bdc)
 
 ---
 
