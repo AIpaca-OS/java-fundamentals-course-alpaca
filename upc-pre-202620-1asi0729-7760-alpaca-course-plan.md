@@ -177,9 +177,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | **Hello World, Variables y Tipos de Datos** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
 | 4 | **Operadores y Expresiones — Trabajando con Datos** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
 | 5 | **Estructuras de Control — Decisiones y Bucles** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
-| 6 | **Métodos — Tu Propio Comando** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
-| 7 | **Clases y Objetos en Java** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
-| 8 | **Encapsulamiento — Protegiendo los Datos de un Objeto** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) ||
+| 6 | **Métodos — Tu Propio Comando** |[Canva - Metodos](https://canva.link/4tizokvh8zhloyn) / [JDoodle – Metodos](https://www.jdoodle.com/ga/rayv-qpvp-teh4) ||
+| 7 | **Clases y Objetos en Java** | [Canva - Clases y Objetos](https://canva.link/4gv3lo21jnxb8mn) / [JDoodle – Clases y Objetos](https://www.jdoodle.com/ga/bjcw-7hbr-cjkf) ||
+| 8 | **Encapsulamiento — Protegiendo los Datos de un Objeto** | [Canva - Encapsulamiento](https://canva.link/3cshmgv8ofyjayf) / [JDoodle – Encapsulamiento](https://www.jdoodle.com/ga/mngn-uuwp-w4sd) ||
 | 9 | **Arrays y Cadenas — Organizando Datos con Objetos** | [Canva - Arrays y Proyecto final](https://canva.link/c18mots7lmi7iwi) ||
 | 10 | **Proyecto Final — Sistema de Registro Estudiantil** | [JDoodle – Online Java IDE](https://www.jdoodle.com/online-java-compiler-ide) | |
 
